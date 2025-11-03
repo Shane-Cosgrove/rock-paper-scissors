@@ -1,0 +1,14 @@
+/*small bit of addition separate to bootstrap not a fan of the bootstrap by itself*/
+
+.btn:hover {
+	transform: scale(1.05);
+	transition: transform 0.2s ease;
+}
+
+#result {
+	background-color: #f8f9fa;
+	display: inline-block;
+	padding: 15px 25px;
+	border-radius: 10px;
+	margin-top: 20px;
+}
